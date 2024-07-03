@@ -75,7 +75,7 @@
     }
     .accordion-content{
         font-size: 15px;
-        /* word-spacing: normal; */
+        word-spacing: normal;
     }
 }
 @media (max-width: 800px){
