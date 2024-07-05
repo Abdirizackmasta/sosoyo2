@@ -77,7 +77,6 @@ export default function Navbar() {
                             <div className="nav-item dropdown" onMouseEnter={() => setDropdownOpen(true)} onMouseLeave={() => setDropdownOpen(false)}>
                                 <Link to="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Pages</Link>
                                 <div className={dropdownOpen ? "dropdown-menu show" : "dropdown-menu"}>
-                                    <Link to="/" className="dropdown-item">Detail Page</Link>
                                     <Link to="/about" className="dropdown-item">What We Do</Link>
                                     <Link to="/event" className="dropdown-item">Meet The Team</Link>
                                     <Link to="/contact" className="dropdown-item">Become A Volunteer</Link>

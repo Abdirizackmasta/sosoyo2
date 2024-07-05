@@ -12,11 +12,9 @@ export default function Footer() {
                             <a href="tel:+254712345678"><p><i className="fa fa-phone"></i>+254712345678</p></a>
                             <a href="mailto:sosoyo22@gmail.com"><p><i className="fa fa-envelope"></i>sosoyo22@gmail.com</p></a>
                             <div className="footer-social">
-                                <a className="btn btn-custom" href=""><i className="fab fa-x-twitter"></i></a>
-                                <a className="btn btn-custom" href=""><i className="fab fa-facebook-f"></i></a>
-                                <a className="btn btn-custom" href=""><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-custom" href=""><i className="fab fa-youtube"></i></a>
-                                <a className="btn btn-custom" href=""><i className="fab fa-linkedin-in"></i></a>
+                                <a className="btn btn-custom" href="https://twitter.com/Sosoyo2019"><i className="fab fa-x-twitter"></i></a>
+                                <a className="btn btn-custom" href="https://instagram.com/sosoyo19"><i className="fab fa-facebook-f"></i></a>
+                                <a className="btn btn-custom" href="https://www.facebook.com/profile.php?id=61556971701370"><i className="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -43,9 +41,7 @@ export default function Footer() {
                             <h2>Useful Links</h2>
                             <a href="#">Terms of use</a>
                             <a href="#">Privacy policy</a>
-                            <a href="#">Cookies</a>
                             <a href="#">Help</a>
-                            <a href="#">FQAs</a>
                         </div>
                     </div>
                 </div>
@@ -56,7 +52,7 @@ export default function Footer() {
                         <p>&copy; <a href="#">THE SOSOYO</a> | 2024, All Right Reserved.</p>
                     </div>
                     <div className="col-md-6">
-                        <p>Designed By <a href="https://abdirizack-masta.netlify.app/">Abdul-razaq Masta</a></p>
+                        <p>Designed By <a href="https://neptech.or.ke/">Neptech</a></p>
                     </div>
                 </div>
             </div>

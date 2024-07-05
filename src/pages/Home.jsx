@@ -26,8 +26,10 @@ export default function Home() {
                     <h2>ENGAGE, EDUCATE, AND EMPOWER... </h2>
                 </div>
             </div>
+            <div id="whatwedo">
+                <Whatwedo />
+            </div>
             <Landing />
-            <Whatwedo />
             <Footer />
             <BackToTop />
         </>
