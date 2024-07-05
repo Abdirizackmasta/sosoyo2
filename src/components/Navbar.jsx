@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import '../css/navbar.css';
-import logo from '../assets/logo.jpeg';
+import logo from '../assets/logo2.png';
 
 
 export default function Navbar() {
@@ -78,8 +78,8 @@ export default function Navbar() {
                                 <Link to="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Pages</Link>
                                 <div className={dropdownOpen ? "dropdown-menu show" : "dropdown-menu"}>
                                     <Link to="/about" className="dropdown-item">What We Do</Link>
-                                    <Link to="/event" className="dropdown-item">Meet The Team</Link>
                                     <Link to="/contact" className="dropdown-item">Become A Volunteer</Link>
+                                    <Link to="/event" className="dropdown-item">Meet The Team</Link>
                                     <hr className='dropdown-divider' />
                                     <Link to="/donate" className="dropdown-item">Donate Now</Link>
                                 </div>
