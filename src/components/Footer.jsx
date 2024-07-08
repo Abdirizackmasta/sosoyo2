@@ -9,8 +9,8 @@ export default function Footer() {
                         <div className="footer-contact">
                             <h2>Contact Us</h2>
                             <a href="https://maps.app.goo.gl/HQg6gMPpAJ445cda6" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>Nairobi, Kenya</p></a>
-                            <a href="tel:+254712345678"><p><i className="fa fa-phone"></i>+254712345678</p></a>
-                            <a href="mailto:sosoyo22@gmail.com"><p><i className="fa fa-envelope"></i>sosoyo22@gmail.com</p></a>
+                            <a href="tel:+254722861053"><p><i className="fa fa-phone"></i>+254722861053</p></a>
+                            <a href="mailto:mohamedbashirduale@gmail.com"><p><i className="fa fa-envelope"></i>mohamedbashirduale@gmail.com</p></a>
                             <div className="footer-social">
                                 <a className="btn btn-custom" href="https://twitter.com/Sosoyo2019"><i className="fab fa-x-twitter"></i></a>
                                 <a className="btn btn-custom" href="https://instagram.com/sosoyo19"><i className="fab fa-facebook-f"></i></a>

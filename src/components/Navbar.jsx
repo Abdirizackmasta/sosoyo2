@@ -38,11 +38,11 @@ export default function Navbar() {
                             <div className="top-bar-left">
                                 <div className="text">
                                     <i className="fa fa-phone"></i>
-                                    <a href="tel:+254712345678"><p>+254712345678</p></a>
+                                    <a href="tel:+254722861053"><p>+254722861053</p></a>
                                 </div>
                                 <div className="text">
                                     <i className="fa fa-envelope"></i>
-                                    <a href="mailto:sosoyo22@gmail.com"><p>sosoyo22@gmail.com</p></a>
+                                    <a href="mailto:mohamedbashirduale@gmail.com"><p>mohamedbashirduale@gmail.com</p></a>
                                 </div>
                             </div>
                         </div>
