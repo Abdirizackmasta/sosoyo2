@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Events from "./pages/Events";
 import Contact from "./pages/Contact";
+import Team from "./pages/Team";
 
 
 export default function App() {
@@ -13,6 +14,7 @@ export default function App() {
         <Route exact path="/about" element={<About />} />
         <Route exact path="/event" element={<Events />} />
         <Route exact path="/contact" element={<Contact />} />
+        <Route exact path="/team" element={<Team />} />
         <Route exact path="*" element={<Navigate to={"/"} />} />
       </Routes>
     </BrowserRouter>

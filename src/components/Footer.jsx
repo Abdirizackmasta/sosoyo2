@@ -8,7 +8,7 @@ export default function Footer() {
                     <div className="col-lg-3 col-md-6">
                         <div className="footer-contact">
                             <h2>Contact Us</h2>
-                            <a href="https://maps.app.goo.gl/HQg6gMPpAJ445cda6" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>Nairobi, Kenya</p></a>
+                            <a href="https://maps.app.goo.gl/eSJBmQkyKMg9cxs36" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>Nairobi, Kenya</p></a>
                             <a href="tel:+254722861053"><p><i className="fa fa-phone"></i>+254722861053</p></a>
                             <a href="mailto:mohamedbashirduale@gmail.com"><p><i className="fa fa-envelope"></i>mohamedbashirduale@gmail.com</p></a>
                             <div className="footer-social">

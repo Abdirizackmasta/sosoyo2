@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import contact from "../assets/contact.jpeg";
 import '../css/contactForm.css';
 
+
 function ContactForm() {
     const [formData, setFormData] = useState({
         name: '',
@@ -47,8 +48,7 @@ function ContactForm() {
         e.preventDefault();
         if (validateForm()) {
             // Perform action (e.g., send form data to server)
-            document.getElementById("success").innerHTML="✔ Message Sent Successfully!";
-            console.log('Form submitted successfully');
+            document.getElementById("success").innerHTML = "✔ Message Sent Successfully!";
             // Reset form fields
             setFormData({
                 name: '',
