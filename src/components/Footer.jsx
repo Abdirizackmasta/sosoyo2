@@ -13,8 +13,8 @@ export default function Footer() {
                             <a href="mailto:mohamedbashirduale@gmail.com"><p><i className="fa fa-envelope"></i>mohamedbashirduale@gmail.com</p></a>
                             <div className="footer-social">
                                 <a className="btn btn-custom" href="https://twitter.com/Sosoyo2019"><i className="fab fa-x-twitter"></i></a>
-                                <a className="btn btn-custom" href="https://instagram.com/sosoyo19"><i className="fab fa-facebook-f"></i></a>
-                                <a className="btn btn-custom" href="https://www.facebook.com/profile.php?id=61556971701370"><i className="fab fa-instagram"></i></a>
+                                <a className="btn btn-custom" href="https://www.facebook.com/profile.php?id=61556971701370"><i className="fab fa-facebook-f"></i></a>
+                                <a className="btn btn-custom" href="https://instagram.com/sosoyo19"><i className="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
