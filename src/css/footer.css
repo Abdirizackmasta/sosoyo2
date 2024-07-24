@@ -4,7 +4,9 @@
     padding-top: 50px;
     background: #20212B;
   }
-  
+  .flex{
+    padding: 20px;
+  }
   .footer .footer-contact,
   .footer .footer-link,
   .footer .footer-newsletter {
