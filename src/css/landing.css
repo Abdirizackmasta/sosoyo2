@@ -17,6 +17,10 @@
       padding-left: 10px;
       padding-right: 10px;
     }
+    @media (max-width: 500px){
+      padding-right: 3px;
+      padding-left: 3px;
+    }
   }
   
   /* Define a style for the left span */
@@ -39,7 +43,7 @@
     .titles {
       max-width: 700px;
       /* margin-left: 80px; */
-      margin-top: 7rem;
+      margin-top: 3rem;
       padding: 20px;
     }
     .caption1 {
@@ -96,6 +100,7 @@
       hr {
         width: 20%;
         border: 0.5px solid yellow;
+        margin-left: 20px;
       }
       h4 {
         font-size: 1rem;
@@ -157,7 +162,7 @@
       width: 500px;
       height: 500px;
       border-radius: 50%;
-      margin-top: 40px;
+      margin-top: 20px;
     }
      @media (max-width: 1280px) {
       img {
